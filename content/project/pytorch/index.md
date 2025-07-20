@@ -1,7 +1,7 @@
 ---
 title: Sequential Bayesian History Matching
 date: 2022-09-26
-external_link: 
+external_link: ''
 tags:
   - Model Updating
   - Sequential Monte Carlo
