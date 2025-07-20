@@ -7,7 +7,6 @@ tags:
   - Smoothing
   - Riemann Manifold
 ---
-
 Investigated the impact of different resampling techniques on the accuracy of smoothing.
 
 <!--more-->
