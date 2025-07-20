@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Adaptive Gaussian Process Emulators 
+date: 2024-06-26
+external_link: ''
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Sequential Monte Carlo
+  - Active Learning
+  - Rare Event Estimation
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Developed an SMC-based framework to construct adaptive Gaussian process emulators for rare event estimation.
 
 <!--more-->
