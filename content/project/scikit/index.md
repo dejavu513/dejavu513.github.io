@@ -1,13 +1,13 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Sequential Bayesian History Matching
+date: 2022-09-26
+external_link: ''
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Model Updating
+  - Sequential Monte Carlo
+  - Bayesian Inference
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Combined SMC methods with History Matching (HM) to achieve full Bayesian posterior distributions for dynamic model updating.
 
 <!--more-->
