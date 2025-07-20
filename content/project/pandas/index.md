@@ -3,6 +3,7 @@ title: Adaptive Gaussian Process Emulators
 date: 2024-06-26
 external_link: ''
 tags:
+  - Jun Cheng
   - Sequential Monte Carlo
   - Active Learning
   - Rare Event Estimation
