@@ -1,13 +1,13 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Sequential Bayesian History Matching
+date: 2022-09-26
+external_link: 
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Model Updating
+  - Sequential Monte Carlo
+  - Bayesian Inference
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Combined SMC methods with History Matching (HM) to achieve full Bayesian posterior distributions for dynamic model updating.
 
 <!--more-->
