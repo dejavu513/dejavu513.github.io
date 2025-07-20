@@ -1,12 +1,12 @@
 ---
-title: Sequential Bayesian History Matching
-date: 2022-09-26
+title: Sequential Monte Carlo with Partial Resampling
+date: 2021-06-06
 external_link: ''
 tags:
-  - Model Updating
   - Sequential Monte Carlo
-  - Bayesian Inference
+  - Smoothing
+  - Riemann Manifold
 ---
-Combined SMC methods with History Matching (HM) to achieve full Bayesian posterior distributions for dynamic model updating.
+Investigated the impact of different resampling techniques on the accuracy of smoothing.
 
 <!--more-->
