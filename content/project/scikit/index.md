@@ -7,6 +7,6 @@ tags:
   - Sequential Monte Carlo
   - Bayesian Inference
 ---
-Combined SMC methods with History Matching (HM) to achieve full Bayesian posterior distributions for dynamic model updating.
+Combined SMC methods with history matching (HM) to achieve full Bayesian posterior distributions for dynamic model updating.
 
 <!--more-->
