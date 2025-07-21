@@ -41,9 +41,9 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0009-0001-7237-5528
 
 interests:
-  - Monte Carlo methods
-  - Uncertainity Quantification
-  - Surrogate Modeling
+  - Monte Carlo Methods
+  - Uncertainty Quantification
+  - Surrogate Modelling
 
 education:
   - area: PhD Mathematics
@@ -55,19 +55,19 @@ education:
 
   - area: MSc Statistics
     institution: Imperial College London
-    date_start: 2021-10-03
-    date_end: 2020-10-03
+    date_start: 2020-10-03
+    date_end: 2021-10-03
     summary: |
-      Distinction
+      Distinction.
 
   - area: BSc Statistics
-    institution: Sichuan Unversity
-    date_start: 2020-06-24
-    date_end: 2016-09-01
+    institution: Sichuan University
+    date_start: 2016-09-01
+    date_end: 2020-06-24
     summary: |
-      First-Class Honours
+      First-Class Honours.
 
-      Studied Pure Mathematics during the first two years and then chose statistics stream.
+      Studied Pure Mathematics during the first two years before specialising in Statistics
 
 work:
   - position: Teaching Assistant
@@ -77,11 +77,11 @@ work:
     date_start: 2022-09-26
     date_end: ''
     summary: |
-      Responsibilities include:
-      - Conducted tutorials, including problem-solving and presentation sessions, for the Analysis - 1 module.
-      - Collaborated with lecturers to support learning for students from diverse academic backgrounds for multiple modules.
-      - Supervised undergraduate mathematics students for their summer projects.
-      - Provided statistical support for non-math master students in UCL EGA Institute for Women’s Health.
+       Responsibilities included:
+        - Conducting tutorials, including problem-solving and presentation sessions, for the Analysis 1 module.
+        - Collaborating with lecturers to support students from diverse academic backgrounds across multiple modules.
+        - Supervising undergraduate mathematics students on their summer projects.
+        - Providing statistical support to non-mathematics master’s students at UCL’s EGA Institute for Women’s Health.
 
   - position: Research Associate
     company_name: Sichuan University (SCU)
@@ -90,10 +90,10 @@ work:
     date_start: 2022-02-01
     date_end: 2022-08-31
     summary: |
-      Responsibilities include:
-      - Investigated the delay reporting problem in the dynamics of the disease spread.
-      - Incorporated latent Gaussian process with dynamic contact networks underlying the epidemic for time delay cases.
-
+      Responsibilities included:
+      - Investigating delay reporting issues in the dynamics of disease spread.
+      - Incorporating latent Gaussian processes with dynamic contact networks underlying the epidemic to model time-delay cases.
+    
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -111,14 +111,6 @@ skills:
         description: ''
         percent: ''
         icon: code-bracket
-  - name: ''
-    color: ''
-    color_border: ''
-    items:
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
 
 languages:
   - name: English (Professional)
@@ -150,4 +142,4 @@ awards:
 
 ## About Me
 
-PhD candidate in computational statistics focusing on the development of Monte Carlo methods, particularly Sequential Monte Carlo (SMC) and Markov Chain Monte Carlo (MCMC). Research centers on efficient sampling algorithms for Bayesian inverse problems, surrogate modeling, and rare event estimation.
+PhD candidate in computational statistics focusing on the development of Monte Carlo methods, particularly Sequential Monte Carlo (SMC) and Markov Chain Monte Carlo (MCMC). My research centres on efficient sampling algorithms for Bayesian inverse problems, surrogate modelling, and rare event estimation.
