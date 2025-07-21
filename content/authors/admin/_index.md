@@ -137,15 +137,15 @@ awards:
     awarder: Advance HE
     icon: ''
     summary: |
-      In recognition of attainment against the Professional Standards Framework for teaching and learning support in higher education.
+      Awarded in recognition of attainment against the UK Professional Standards Framework (UKPSF) for teaching and learning support in higher education.
 
-  - title: 4-year PhD TA studentship
+  - title: 4-year PhD Teaching Assistant Studentship
     url: ''
     date: '2022-09-26'
-    awarder: UCL
+    awarder: University College London (UCL)
     icon: ''
     summary: |
-      PGTA duties as part of my PhD
+      Funded PhD position including Postgraduate Teaching Assistant (PGTA) duties as part of doctoral training.
 ---
 
 ## About Me
