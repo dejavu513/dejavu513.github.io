@@ -1,5 +1,5 @@
 ---
-title: Dynamic model updating through reliability-based sequential history matching
+title: Dynamic Model Updating through Reliability-based Sequential History Matching
 authors:
 - J. Cheng
 - F. A. DiazDelaO
